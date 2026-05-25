@@ -1,7 +1,0 @@
-../Core/Src/ibus.c:27:17:ibus_checksum	24	static
-../Core/Src/ibus.c:35:13:ibus_try_parse_from_dma	32	static
-../Core/Src/ibus.c:65:6:ibus_init	8	static
-../Core/Src/ibus.c:78:6:ibus_process	16	static
-../Core/Src/ibus.c:91:6:ibus_is_signal_present	8	static
-../Core/Src/ibus.c:97:10:ibus_dma_ndtr	4	static
-../Core/Src/ibus.c:102:10:ibus_read_channel	16	static

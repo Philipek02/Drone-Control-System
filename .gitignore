@@ -1,0 +1,97 @@
+# =========================
+# STM32CubeIDE / Eclipse
+# =========================
+
+.metadata/
+RemoteSystemsTempFiles/
+.settings/*.log
+
+# Lokalne ustawienia IDE
+*.launch
+*.prefs
+
+# Możesz zostawić te pliki w repo, jeśli chcesz współdzielić projekt CubeIDE:
+# .project
+# .cproject
+# .mxproject
+# .settings/language.settings.xml
+
+
+# =========================
+# Build output
+# =========================
+
+Debug/
+Release/
+build/
+Build/
+bin/
+obj/
+out/
+
+*.o
+*.obj
+*.d
+*.su
+*.cyclo
+*.map
+*.elf
+*.hex
+*.bin
+*.list
+*.lst
+*.dis
+*.axf
+*.dep
+
+
+# =========================
+# Make / generated files
+# =========================
+
+makefile
+sources.mk
+objects.mk
+objects.list
+subdir.mk
+
+
+# =========================
+# Archives / backups
+# =========================
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bak
+*.backup
+*.tmp
+*~
+
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# =========================
+# Editor files
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# =========================
+# Logs
+# =========================
+
+*.log
