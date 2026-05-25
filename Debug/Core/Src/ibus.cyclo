@@ -1,0 +1,7 @@
+../Core/Src/ibus.c:27:17:ibus_checksum	2
+../Core/Src/ibus.c:35:13:ibus_try_parse_from_dma	6
+../Core/Src/ibus.c:65:6:ibus_init	1
+../Core/Src/ibus.c:78:6:ibus_process	2
+../Core/Src/ibus.c:91:6:ibus_is_signal_present	3
+../Core/Src/ibus.c:97:10:ibus_dma_ndtr	1
+../Core/Src/ibus.c:102:10:ibus_read_channel	2

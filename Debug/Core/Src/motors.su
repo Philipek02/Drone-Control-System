@@ -1,0 +1,6 @@
+../Core/Src/motors.c:11:6:motors_arm	8	static
+../Core/Src/motors.c:18:6:motors_stop_all	16	static
+../Core/Src/motors.c:24:6:motors_set_all_us	24	static
+../Core/Src/motors.c:31:6:set_motor_us	16	static
+../Core/Src/motors.c:60:6:mixer_update	56	static
+../Core/Src/motors.c:102:6:esc_calibrate_all	8	static
